@@ -1,7 +1,7 @@
 ---
 title: hexo搭建博客初体验
 date: 2022-07-16 13:31:48
-tag: 随笔
+tag:
 banner_img: /img/landscape1.jpg
 category: 随笔
 excerpt: 这篇文章留到几年后给自己看

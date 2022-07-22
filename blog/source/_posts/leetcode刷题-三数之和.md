@@ -1,13 +1,15 @@
 ---
 title: leetcode刷题-三数之和
 date: 2022-07-17 20:12:49
-tag: leetcode刷题
+tag: 排序
 banner_image:
 category: leetcode刷题
 excerpt: 排序+双指针
 ---
-### 三数之和：
+### 15.三数之和
 ### 排序+双指针
+1. 在有序数列中跳过重复数字来去重
+
 ```go
 func threeSum(nums []int) [][]int {
     var res [][]int
