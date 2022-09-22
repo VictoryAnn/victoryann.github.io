@@ -1,9 +1,9 @@
 ---
-title: kuberntes浅析
+title: kuberntes浅析pod
 date: 2022-07-23 13:27:45
-tag:
+tag: kuberntes
 banner_image:
-category:
-excerpt:
+category: 技术文章
+excerpt: kubernetes pod的一生
 ---
 https://dockone.io/article/2434339
